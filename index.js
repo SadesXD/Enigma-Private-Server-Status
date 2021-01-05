@@ -1,6 +1,5 @@
 const axios = require("axios")
 const cheerio = require("cheerio")
-const rl = require("readline").createInterface(process.stdin,process.stdout)
 
 function status(){
     axios({
