@@ -19,7 +19,7 @@
 
     <img src="./image/github.jpg" alt="image">
 
-- 3. Click the file called `install.bat` for install the package required, and waiting until finish 
+- 3. Click the file called `install.bat` for install the required package, and waiting until finish 
 
     <img src="./image/image.PNG" alt="image">
 
